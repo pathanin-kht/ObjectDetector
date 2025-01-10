@@ -16,7 +16,7 @@ This project implements an object detection system using YOLOv5 and OpenCV. It d
 - **Press 'c'**: Capture the current frame as a JPG image.
 
 ## Example
-[]()
+[TestCase](https://github.com/pathanin-kht/Object-Detector/blob/5a727539c3cfdb7185cd8b608a984dc9b60506a4/TestCase.jpg)
   
 ### Installation
 1. Clone or download the repository.
