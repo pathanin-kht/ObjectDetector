@@ -1,4 +1,4 @@
-Object Detection
+## Object Detection
 
 ## Overview
 This project implements an object detection system using YOLOv5 and OpenCV. It detects objects in real-time from a webcam feed, displaying relevant information such as FPS and detected objects. The system also allows users to record video and capture frames on demand using a pre-trained YOLOv5 model from the Ultralytics repository.
