@@ -14,7 +14,7 @@ This project implements an object detection system using YOLOv5 and OpenCV. It d
 - **Press 'q'**: Quit the program.
 - **Press 'r'**: Toggle video recording on/off.
 - **Press 'c'**: Capture the current frame as a JPG image.
-- 
+  
 ### Installation
 1. Clone or download the repository.
 2. Install the required dependencies:
