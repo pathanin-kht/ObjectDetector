@@ -22,7 +22,7 @@ This project implements an object detection system using YOLOv5 and OpenCV. It d
 1. Clone or download the repository.
 2. Install the required dependencies:
    ```bash
-   pip install torch opencv-python numpy
+   pip install -r requirements.txt
 3. Run the script.
    ```bash
    python object_detection.py
