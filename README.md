@@ -20,10 +20,12 @@ This project implements an object detection system using YOLOv5 and OpenCV. It d
   
 ### Installation
 1. Clone or download the repository.
-2. Install the required dependencies:
+   ```bash
+   git clone https://github.com/pathanin-kht/ObjectDetector.git
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the script.
+4. Run the script.
    ```bash
    python object_detection.py
 
